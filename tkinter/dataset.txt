@@ -1,0 +1,1 @@
+{'username': 'id number:password', 'chau': '12345', 'admin': '123'}
